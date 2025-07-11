@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002976690601",
+    "project_id": "e-desa-bendungan",
+    "storage_bucket": "e-desa-bendungan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002976690601:android:9b2b887e8f9b66ff9404b8",
+        "android_client_info": {
+          "package_name": "com.daffa.e_surat_bendungan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFnwHDDz7Dz6bLi49PIIkrgce7AwjgkHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
